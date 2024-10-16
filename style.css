@@ -1,0 +1,64 @@
+table {
+  width: 650px;
+  height: 700px;
+}
+
+table, td {
+  border: 5px solid black;
+  border-spacing: 0;
+  margin: auto;
+}
+.first {
+  height: 9%;
+}
+.cell22 {
+  background-color: rgb(227, 1, 1);
+  width: 46%;
+}
+.cell23 {
+  width: 30%;
+  height: 23%;
+}
+.cell14 {
+  width: 5%;
+}
+.cell31 {
+  width: 10%;
+}
+.cell32 {
+  height: 20%;
+}
+
+.cell71 {
+  height: 5%;
+}
+
+.cell41 {
+  height: 40%;
+  background-color: black;
+}
+.cell42 {
+  height: 10%;
+}
+.cell51 {
+  background-color: rgb(200, 239, 1);
+}
+.cell52 {
+  height: 10%;
+}
+.cell13 {
+  background-color: rgb(200, 239, 1);
+}
+.cell23 {
+  background-color: rgb(200, 239, 1);
+}
+.cell54 {
+  background-color: rgb(227, 1, 1);
+}
+.cell53 {
+  background-color: rgb(3, 3, 189);
+}
+.cell62 {
+  height: 7%;
+  background-color: black ;
+}
